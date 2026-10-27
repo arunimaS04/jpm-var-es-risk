@@ -1,0 +1,7 @@
+"measure","expected.if.model.works","returns.before.GARCH","z.after.GARCH"
+"Mean",0,0,-0.029
+"Standard deviation",1,1,1
+"Skewness",0,0.211,-0.134
+"Kurtosis",7.269,17.641,6.271
+"Autocorrelation (lag 1)",0,-0.083,-0.012
+"Autocorrelation of absolute value (lag 1)",0,0.379,0.025
