@@ -3,8 +3,7 @@
 #
 # Methods: normal distribution, historical simulation, Student-t,
 # 10-day simulations, GARCH(1,1) with t errors, and a rolling 1-day VaR for 2025.
-# Based on the Duke "Financial Risk Management with R" course (Coursera).
-#
+
 # Packages needed:
 # install.packages(c("quantmod", "moments", "metRology", "rugarch"))
 #
