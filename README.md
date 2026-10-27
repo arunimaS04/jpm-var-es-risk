@@ -160,9 +160,3 @@ few minutes. To analyse another stock, change `ticker` at the top of the script.
 - Only VaR is backtested, not ES.
 - Symmetric GARCH; GJR-GARCH or a skewed t distribution could capture the fact that falls
   raise volatility more than rises.
-
-## Acknowledgements
-
-Built on exercises from the Duke University course *Financial Risk Management with R*
-(Coursera), extended with JP Morgan data, crisis analysis, comparison tables and the 2025
-out-of-sample backtest.
